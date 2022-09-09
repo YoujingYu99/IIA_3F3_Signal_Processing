@@ -7,7 +7,7 @@ generation from desired probability distributions are introduced. The methods in
 
 
   * The Jacobian transformation of functions.
-  * The inverse cumulative distribution function (CDF) method
-  * Generation from a scale mixture of normals representation
+  * The inverse cumulative distribution function (CDF) method.
+  * Generation from a scale mixture of normals representation.
   
 Different distributions are also explored, namely the Gaussian distribution, the uniform distribution, the exponential distribution and the gamma distribution. 
